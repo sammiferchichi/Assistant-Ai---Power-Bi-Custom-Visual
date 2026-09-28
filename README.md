@@ -76,13 +76,8 @@ Videos must be HTTPS (Cloudinary or other). For offline dev, put `.webm` in `ass
 
 ## Steps How to add the Custom visual in Power BI
 
-![Step 1](steps/1.png)
-![Step 2](steps/2.png)
-![Step 3](steps/3.png)
-![Step 4](steps/4.png)
-![Step 5](steps/5.png)
-![Step 6](steps/6.png)
-![Step 7](steps/7.png)
+
+<img width="2048" height="1462" alt="steps" src="https://github.com/user-attachments/assets/956a5e2e-6397-46f6-a252-4f69ff77e716" />
 
 
 # good luck :)
