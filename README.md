@@ -70,6 +70,9 @@ npm run package
 
 Videos must be HTTPS (Cloudinary or other). For offline dev, put `.webm` in `assets/` and update template.
 
+## Vedio demo :
+
+<video src="steps/demo.mp4" controls width="700"></video>
 
 ## Steps How to add the Custom visual in Power BI
 
