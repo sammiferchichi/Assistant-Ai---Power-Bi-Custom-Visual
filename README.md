@@ -71,7 +71,15 @@ npm run package
 Videos must be HTTPS (Cloudinary or other). For offline dev, put `.webm` in `assets/` and update template.
 
 
+## Steps How to add the Custom visual in Power BI
 
+![Step 1](steps/1.png)
+![Step 2](steps/2.png)
+![Step 3](steps/3.png)
+![Step 4](steps/4.png)
+![Step 5](steps/5.png)
+![Step 6](steps/6.png)
+![Step 7](steps/7.png)
 
 
 # good luck :)
