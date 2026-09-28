@@ -1,0 +1,31 @@
+{
+    "suppressDefaultTitle": true,
+    "dataRoles": [
+        {
+            "name": "myData",
+            "kind": "GroupingOrMeasure",
+            "displayName": "Données"
+        }
+    ],
+    "dataViewMappings": [
+        {
+            "table": {
+                "rows": {
+                    "for": {
+                        "in": "myData"
+                    }
+                }
+            }
+        }
+    ],
+    "privileges": [
+        {
+            "name": "WebAccess",
+            "essential": true,
+            "parameters": [
+                "https://YOUR-CDN.com",
+                "https://YOUR-PROXY.onrender.com"
+            ]
+        }
+    ]
+}
