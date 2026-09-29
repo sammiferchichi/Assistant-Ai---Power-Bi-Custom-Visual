@@ -1,0 +1,20 @@
+{
+    "visual": {
+        "name": "assistantai",
+        "displayName": "Assistant AI",
+        "guid": "assistantaiA1B2C3D4E5F6",
+        "visualClassName": "Visual",
+        "version": "1.0.0.0",
+        "description": "AI Assistant for Power BI — safe open-source version",
+        "supportUrl": "https://github.com/sammiferchichi/Assistant-Ai---Power-Bi-Custom-Visual",
+        "gitHubUrl": "https://github.com/sammiferchichi/Assistant-Ai---Power-Bi-Custom-Visual"
+    },
+    "author": { "name": "Sami Ferchichi", "email": "" },
+    "apiVersion": "5.3.0",
+    "assets": { "icon": "assets/icon.png" },
+    "externalJS": [],
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}

@@ -1,0 +1,22 @@
+# NEVER commit secrets, data, or build outputs
+.env
+*.env
+
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Power BI build outputs
+dist/
+.tmp/
+*.pbiviz
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Private docs with keys (example: how-AssistantAI.txt)
+*key*.txt
+*secret*.txt

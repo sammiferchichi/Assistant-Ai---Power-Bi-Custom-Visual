@@ -1,13 +1,12 @@
 {
   "name": "visual",
-  "description": "Power BI Custom Visual — AI Chatbot (safe version)",
+  "description": "Power BI Custom Visual — AI Assistant ",
   "version": "1.0.0.0",
   "license": "MIT",
   "scripts": {
     "pbiviz": "pbiviz",
     "start": "pbiviz start",
-    "package": "pbiviz package",
-    "lint": "npx eslint ."
+    "package": "pbiviz package"
   },
   "dependencies": {
     "@types/d3": "7.4.3",
