@@ -1,6 +1,9 @@
 # Power BI custom visual Assistant AI — Open-Source Version
 ## Demo
-https://github.com/user-attachments/assets/b2930085-3498-4d62-a2cd-e856dea72eac
+
+https://github.com/user-attachments/assets/912d4228-a92b-4ed7-8530-fbd011cd6ceb
+
+
 Custom Visual Power BI (TypeScript) + Express proxy for Gemini / Groq / Local LLM (Ollama).
 No secrets in this repo. Use your own API keys via `.env`.
 
